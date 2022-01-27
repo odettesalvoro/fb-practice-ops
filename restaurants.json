@@ -1,0 +1,27 @@
+[
+{
+        "name": "Bolay",
+        "locatiom": " Boca Raton",
+        "Type": "Healthy Food",
+        "Price": "$"
+},
+{
+        "name": "Ruth Chris",
+        "locatiom": " Boca Raton",
+        "Type": "American Rreataurant",
+        "Price": "$"
+    },
+{
+        "name": "Thai Spice",
+        "locatiom": " Fort Laudedale",
+        "Type": "Thai Food",
+        "Price": "$"
+    },
+{
+        "name": "Pump Sushi",
+        "locatiom": " Boca Raton",
+        "Type": "Japanese Food",
+        "Price": "$"
+
+}
+]
